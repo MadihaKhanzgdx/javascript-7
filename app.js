@@ -75,34 +75,20 @@
 
 
 // Question :10
-var word = prompt("Enter a word");
+// var word = prompt("Enter a word");
 
-var len = word.length;
+// var len = word.length;
 
-var reverse = "";
+// var reverse = "";
 
-for (var i = len - 1; i >= 0; i--) {
-  reverse = reverse + word[i];
-}
+// for (var i = len - 1; i >= 0; i--) {
+//   reverse = reverse + word[i];
+// }
 
-if (reverse === word) {
-  console.log("its a palindrome word");
-} else {
-  console.log("its not a palindrome word");
-}
-// Question :11
-// Question :12
-// Question :13
-// Question :14
-// Question :15
-// Question :16
-// Question :17
-// Question :18
-// Question :19
-// Question :20
-// Question :21
-// Question :22
-// Question :23
-// Question :24
-// Question :25
-// Question :26
+// if (reverse === word) {
+//   console.log("its a palindrome word");
+// } else {
+//   console.log("its not a palindrome word");
+// }
+
+
